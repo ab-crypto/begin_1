@@ -1,0 +1,41 @@
+
+/********************************************** TAG SELECTORS **********************************************************/
+
+body {
+    background-color: rgb(189, 238, 189);
+}
+hr {
+    
+    border-style: dotted none none;          
+    border-color: rgb(117, 8, 190);
+    border-width: 5px;
+    width: 8%;       /* DO NOT USE CONSTANT/ HARD-CODED VALUES AS DIFFERENT DEVICES HAVE DIFFERENT SCREEN SIZES */
+}
+h1,h3 {
+
+    color: #146356;
+}
+
+img:hover {
+
+    background-color: rgb(248, 244, 8);
+    
+}
+
+a:hover {
+
+    color:yellowgreen;
+}
+
+/************************************************* CLASSSELECTORS ***********************************************************/
+
+.megs {
+
+    background-color: indianred;
+}
+
+
+.profile {
+
+    background-color: indigo;
+}
