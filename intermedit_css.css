@@ -1,0 +1,195 @@
+body {
+    background-color: rgb(255, 229, 115);  /*PLIXELS - STATIC SIZES*/
+    margin: 0%;                              /*% OR em - RELATIVE SIZES*/
+    text-align: center;                      /*USE REM TO DEBUG EASILY*/
+    font-family: "Merriweather", serif;
+}
+
+h1 {
+    color:  #034d4d;
+    font-size: 300%;
+   /*line-height: 2;*/
+    margin-top: 6%;
+    font-family: "Sacramento", serif;
+   /* margin-left: 0%;
+    margin-right: 0%;*/
+}
+h2 {
+    color:  #034d4d;
+    font-weight: normal;
+    font-size: 1.5rem;
+    font-family: "Montserrat", serif;
+}
+
+h3 {
+    color: #11999E;
+    font-family: "Montserrat", serif;
+}
+a {
+    font-family: "Montserrat", serif;
+    color: #11999E;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+span {
+    text-decoration: underline;
+}
+
+hr {
+    border-width: 8px;
+    width: 10%;
+    border-style: dotted none none;
+    border-color: rgb(104, 4, 70);
+    line-height: 3px;
+    margin-bottom: 70px;
+}
+
+.profile {
+    margin-bottom: 70px;
+}
+.get
+{
+    font-weight: normal;
+    position: relative;
+    bottom: 5px;
+}
+.skill-row {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+}
+.mount{
+
+    position: relative;
+    top: 4px;
+}
+.cloud1 {
+
+    position: relative;
+    left: 250px;
+    
+}
+
+.cloud2 {
+    
+    position: absolute;
+}
+
+.butter {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.wools {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+
+}
+.top {
+   
+    background-color: rgb(139, 206, 184);
+    padding-top: 50px;
+    }
+    
+.middle-container{
+    padding-top: 50px;
+
+}
+
+.bottom-container {
+    position: relative;
+    top: 30px;
+    background-color: rgb(139, 206, 184) ;
+    margin: 50px auto 0px auto;
+    padding: 20px;
+
+}
+
+.contact-me {
+    line-height: 3px;
+}
+
+.copyright {
+    font-size: .75rem;
+}
+.btn {
+    margin-top: 40px;
+    position: relative;
+    top: 30px;
+    bottom: 30px;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Montserrat", serif ;
+    color: #2750a3;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    line-height: 4px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+
+
+
+
+
+
+
+/*height: 200px;
+    width: 200px;
+    }*/ 
+
+/*.mid {
+    background-color: rgb(241, 114, 114);    SINCE WE HAVE SET THE BODY MARGIN:0% ALREADY, THAT IS WHY THE BOXES TOUCH THE CORNERS OF THE PAGE
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 200px;
+    left: 200px;
+
+}*/
+
+/*.bot {
+    background-color: rgb(178, 106, 245);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    right: 100px;
+}
+
+.new {
+    background-color: rgb(159, 241, 148);
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+
+}*/
+
+
+
+
