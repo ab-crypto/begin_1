@@ -1,0 +1,50 @@
+/*.....................................USED CLASSES AND TAG SELECTORS.......................................*/
+
+body{
+
+    background-color: rgb(236, 138, 138);
+    
+}
+
+img {
+    
+
+    height: 50%;
+    width: 50%;
+    
+}
+h2, h3 {
+
+    color: rgb(160, 12, 12);
+}
+a:hover {
+
+        color:rgb(0, 0, 0)
+}
+/*a:visited{
+        color:rgb(197, 11, 113)
+}*/
+.center {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.fly {
+    background-color: rgb(92, 49, 173);
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.para2 {
+
+    background-color: rgb(235, 243, 165);
+}
+
+hr {
+    border-width: 8px;
+    width: 10%;
+    border-style: dotted none none;
+    border-color: rgb(117, 4, 79);
+}
